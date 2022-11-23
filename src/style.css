@@ -1,0 +1,21 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: rgba(117, 145, 190, 0.1);
+}
+
+
+
+@font-face {
+  font-family: "DM Mono";
+  src: url("../src/assets/DMMono-Regular.ttf");
+}
+
+@font-face {
+  font-family: "DM Sans";
+  src: url("../src/assets/DMSans-Regular.ttf");
+}
