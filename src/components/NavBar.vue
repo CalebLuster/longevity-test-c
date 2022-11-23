@@ -9,7 +9,7 @@
           </div>
           <div class="profile-wrapper">
            <p class="profile-name">Caleb</p>
-            <img class="profile-pic" src="../assets/IMG_5564 (2).jpg" alt="">
+            <img class="profile-pic" src="../assets/IMG_5564(2).jpg" alt="">
           </div>
         </div>
       </div>
